@@ -24,4 +24,7 @@ print("I am",age)
 print(4)
 print("Hello python \n")
 print("hello ",5)
-print("All the best for this course",end="👍")
+print("All the best for this course",end="👍\n")
+
+print("hello ",5,sep="*")
+print("student",end=" ",flush=True)
