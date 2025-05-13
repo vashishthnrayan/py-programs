@@ -6,3 +6,5 @@ elif num < 0:
     print(num, "is a negitive number.")
 else:
     print(num, "is zero.")
+
+
