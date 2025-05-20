@@ -1,4 +1,4 @@
-string= input("plz enter your own string: ")
+string= str(input("plz enter your own string: "))
 string2=('')
 
 for i in string:
