@@ -7,7 +7,7 @@ b = 5
 print("the sum of a + b =",a+b)
 print("the sum of a - b =",a-b)
 print("the sum of a * b =",a*b)
-print("the sum of a / b =",b/a)
+print("the sum of a / b =",a/b)
 
 
 print(type(a))
