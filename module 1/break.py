@@ -1,4 +1,8 @@
-for i in range (9):
-    if i == 5:
+a =input("Enter a Word: ")
+
+for i in a:
+    if(i=='a'):
+        print("Found a")
         break
-    print(i)
+    else:
+        print("Not Found a")
