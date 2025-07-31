@@ -1,11 +1,11 @@
 class myClass:
-    __privateVar=27;
+    __privateVar=27
 
-    def __pricMath(self):
+    def __privMath(self):
         print("I am inside my class")
 
     def hello(self):
         print("private variavle value:",myClass.__privateVar)
-    __pricMath()
+        self.__privMath()
 foo = myClass()
 foo.hello()
